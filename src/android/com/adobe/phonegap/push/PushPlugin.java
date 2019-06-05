@@ -37,6 +37,10 @@ import java.util.List;
 
 import me.leolin.shortcutbadger.ShortcutBadger;
 
+/*
+* Code for new fork of plugin
+*/
+
 public class PushPlugin extends CordovaPlugin implements PushConstants {
 
   public static final String LOG_TAG = "Push_Plugin";

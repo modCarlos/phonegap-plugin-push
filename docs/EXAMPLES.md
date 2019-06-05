@@ -6,6 +6,10 @@ If you want to get started with a sample project you can create a new project fr
 phonegap create my-app --template phonegap-template-push
 ```
 
+```
+	Here goes a new example for use of the new plugin
+```
+
 ## Quick Example
 
 ```javascript

@@ -48,6 +48,10 @@ import java.util.List;
 import java.util.Map;
 import java.security.SecureRandom;
 
+/*
+* Here it's the code for android platform
+*/
+
 @SuppressLint("NewApi")
 public class FCMService extends FirebaseMessagingService implements PushConstants {
 
